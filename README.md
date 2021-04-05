@@ -2,7 +2,6 @@
 
 </a>
 <h4 align="center">Hacking Addict</h4> 
-<h3 align="center">  [*] Ibnu Fachrizal [*]</h3> 
 <p align="center">
   </a>
   <a href="https://twitter.com/ibnufachrizal">
