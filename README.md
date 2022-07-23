@@ -1,7 +1,6 @@
-<h3 align="center">Full-time dreamer, part-time archiever</h> 
-<h4 align="center"><img src="https://raw.githubusercontent.com/ibnufachrizal/ibnufachrizal/master/PirateHack-AgADcgEAAugVJyI.gif" width="300px" height="300px">
-<h4 align="center">Javascript Developer | Security Reseacher</h4> 
-
+<p><h3 align="center">Full-time dreamer, part-time archiever</h3></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/26188697/180601594-d39a310f-71a0-42a9-aa7c-b38d5d317170.gif" width="300px" height="300px"></p>
+</p><h4 align="center">Javascript Developer | Security Reseacher</h4></p>
 
 <p align="center">
   <a href="https://twitter.com/ibnufachrizal">
