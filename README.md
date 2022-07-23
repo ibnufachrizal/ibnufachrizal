@@ -1,4 +1,4 @@
-<p><h3 align="center">Full-time dreamer, part-time archiever</h3></p>
+<p><h4 align="center">Full-time dreamer, part-time archiever</h4></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/26188697/180601594-d39a310f-71a0-42a9-aa7c-b38d5d317170.gif" width="300px" height="300px"></p>
 </p><h4 align="center">Javascript Developer | Security Reseacher</h4></p>
 
@@ -15,8 +15,8 @@
   <a href="https://www.linkedin.com/in/ibnufachrizal/">
     <img alt="Ibnu's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
-   <a href="mailto:ibnu@sgbteam.id/">
-    <img alt="Ibnu's Gmail" src="https://img.shields.io/badge/Email-c71610?style=for-the-badge&logo=gmail&logoColor=white" />
+   <a href="mailto:ibnu@sgbteam.id">
+    <img alt="Ibnu's Gmail" src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" />
    </a>
 </p>
 
