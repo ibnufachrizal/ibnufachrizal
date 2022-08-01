@@ -1,22 +1,16 @@
 <p><h4 align="center">Full-time dreamer, part-time archiever</h4></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/26188697/180601594-d39a310f-71a0-42a9-aa7c-b38d5d317170.gif" width="300px" height="300px"></p>
-</p><h4 align="center">Javascript Developer | Security Reseacher</h4></p>
+</p><h4 align="center">Javascript Enthusiast | Security Reseacher</h4></p>
 
 <p align="center">
   <a href="https://twitter.com/ibnufachrizal">
     <img alt="Ibnu's Twitter" src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://github.com/ibnufachrizal/">
-    <img alt="Ibnu's Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/channel/UC4QnWn5Ck2HWpESb96ptyoQ">
-    <img alt="Ibnu's Youtube Channel" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/ibnufachrizal/">
     <img alt="Ibnu's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
-   <a href="mailto:ibnu@sgbteam.id">
-    <img alt="Ibnu's Gmail" src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" />
+   <a href="https://www.facebook.com/ibnufachrizal">
+    <img alt="Ibnu's Gmail" src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" />
    </a>
 </p>
 
@@ -36,13 +30,16 @@
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
   <img alt="materialui" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="JSON Web Tokens" src="https://img.shields.io/badge/JWT-323330?style=flat-square&logo=json-web-tokens&logoColor=pink" />
+  <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  
 </p>
 
 <p align=center>
